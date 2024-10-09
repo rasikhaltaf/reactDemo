@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+div{
+    height: 250px;
+    width: 100%;
+    background-color: black;
+    color: rgb(239, 158, 7);
+    font-size: 38px;
+    text-align: center;
+}
